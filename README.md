@@ -42,6 +42,11 @@ Una vez estén corriendo los servicios, puedes acceder a la aplicación en tu na
 
 👉 http://localhost:9000/
 
+Las credenciales a ingresar en el login son:
+
+User: admin
+Password: 123
+
 ## 🧼 Detener los Servicios
 
 Si deseas detener y eliminar los contenedores, puedes usar:
