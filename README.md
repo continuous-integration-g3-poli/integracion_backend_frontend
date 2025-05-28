@@ -22,7 +22,7 @@ docker pull drios8331/backend:latest
 Clona el repositorio que contiene los archivos de integración:
 
 ```bash
-git clone https://github.com/drios8331/integracion_backend_frontend.git
+git clone https://github.com/continuous-integration-g3-poli/integracion_backend_frontend.git
 cd integracion_backend_frontend
 ```
 
